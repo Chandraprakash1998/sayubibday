@@ -98,7 +98,7 @@
                         </h1>
 
                         <p class="sub-title" style="color: white">
-                           I have a message for you..but wait till countdown gets zero....
+                          
                            </p>
                     </div>
                 </li>
@@ -165,7 +165,7 @@
     
                 <li class="layer" data-depth="0.20">
                     <div class="contact">
-                        <a href="index.php"><button style="background-color: black;color: white; width: 150px;border-radius: 10px"> Click here...</button></a>
+                      
                          
            
  
