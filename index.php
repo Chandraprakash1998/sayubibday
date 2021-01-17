@@ -79,7 +79,7 @@
                 <li class="layer" data-depth="0.20">
                     <div class="title">
                         <h2 style="color: white">
-                           Happy Birthday My Guardian Angel <i class="fa fa-heart"></i>
+                           I have a message for you... <i class="fa fa-heart"></i>
                         </h2>
                         <span class="line"></span>
                     </div>
@@ -98,7 +98,7 @@
                         </h1>
 
                         <p class="sub-title" style="color: white">
-                          
+                           wait till countdown gets zero...
                            </p>
                     </div>
                 </li>
@@ -165,7 +165,7 @@
     
                 <li class="layer" data-depth="0.20">
                     <div class="contact">
-                      
+                      <a href="message.html"><button style="background-color: black;color: white; width: 150px;border-radius: 10px"> Click here...</button>
                          
            
  
